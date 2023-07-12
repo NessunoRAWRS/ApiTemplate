@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTemplate", "ApiTemplate\ApiTemplate.csproj", "{597A1E3A-9D74-4211-81AA-EDBD66DC4689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTemplate.Application", "ApiTemplate.Application\ApiTemplate.Application.csproj", "{3A18DD21-B5A4-4DB0-B1CA-DD036332DBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTemplate.Contracts", "ApiTemplate.Contracts\ApiTemplate.Contracts.csproj", "{CC30F1BD-1D36-4DD3-8DDB-956D4C183F76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597A1E3A-9D74-4211-81AA-EDBD66DC4689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597A1E3A-9D74-4211-81AA-EDBD66DC4689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597A1E3A-9D74-4211-81AA-EDBD66DC4689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597A1E3A-9D74-4211-81AA-EDBD66DC4689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A18DD21-B5A4-4DB0-B1CA-DD036332DBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A18DD21-B5A4-4DB0-B1CA-DD036332DBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A18DD21-B5A4-4DB0-B1CA-DD036332DBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A18DD21-B5A4-4DB0-B1CA-DD036332DBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC30F1BD-1D36-4DD3-8DDB-956D4C183F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC30F1BD-1D36-4DD3-8DDB-956D4C183F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC30F1BD-1D36-4DD3-8DDB-956D4C183F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC30F1BD-1D36-4DD3-8DDB-956D4C183F76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
